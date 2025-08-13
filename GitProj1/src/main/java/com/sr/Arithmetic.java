@@ -4,7 +4,8 @@ public class Arithmetic
 {
    public int sum(int x,int y)
    {
-	   return x+y;
+	   int z=x+y;
+	   return z;//teamlead added
    }
    public double sum(double x,double y)
    {
