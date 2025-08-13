@@ -9,7 +9,10 @@ public class Arithmetic
    }
    public double sum(double x,double y)
    {
-	   double z=x+y;//dev2 added //sairam.....//Iam java developer
+
+
+	   double z=x+y;//dev2 added //sairam.....Iam Java Developer
+
 	   return z;
    }
    
