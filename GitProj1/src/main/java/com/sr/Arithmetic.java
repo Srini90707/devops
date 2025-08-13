@@ -9,8 +9,9 @@ public class Arithmetic
    }
    public double sum(double x,double y)
    {
-	   double z=x+y;//dev2 added
+	   double z=x+y;//dev2 added //sairam.....
 	   return z;
    }
+   
    
 }
