@@ -8,6 +8,8 @@ public class Arithmetic
    }
    public double sum(double x,double y)
    {
-	   return x+y;
+	   double z=x+y;//dev2 added
+	   return z;
    }
+   
 }
